@@ -36,7 +36,7 @@
         "mygitalk": {
             "clientID": "c88a61177d2cc4d2d6c6",
             "clientSecret": "f2f895998771cdcc09055ac55337e6d4ec7810d2",
-            "repo": "https://david-kiko.github.io",
+            "repo": "david-kiko.github.io",
             "owner": "david-kiko",
             "admin": ["david-kiko"],
             "distractionFreeMode": false
