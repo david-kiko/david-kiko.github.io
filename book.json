@@ -35,7 +35,7 @@
     "pluginsConfig": {
         "mygitalk": {
             "clientID": "c88a61177d2cc4d2d6c6",
-            "clientSecret": "f2f895998771cdcc09055ac55337e6d4ec7810d2",
+            "clientSecret": "795c1b2390fd7a069fa795a9de8af6ffe983c830",
             "repo": "david-kiko.github.io",
             "owner": "david-kiko",
             "admin": ["david-kiko"],
